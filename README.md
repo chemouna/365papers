@@ -11,3 +11,6 @@ Updates should happen daily.
 
 ## Day 3 
 [Time Bounds for Selection](https://people.csail.mit.edu/rivest/BlumFloydPrattRivestTarjan-TimeBoundsForSelection.pdf)
+
+## Day 4 
+[Selection In X+Y and Matrices with Sorted Rows and Columns](http://www.cse.yorku.ca/~andy/pubs/X+Y.pdf)
